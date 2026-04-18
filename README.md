@@ -34,26 +34,3 @@ Data Science
 Full Stack Development
 
 ---
-
-## Experience and Leadership
-
-Director, BRAC University Football Club  
-Managed teams, coordinated events, and developed leadership and organizational skills.
-
----
-
-## Objectives
-
-To develop scalable software systems, contribute to impactful projects, and grow through continuous learning.
-
----
-
-## Current Status
-
-Actively seeking software engineering internships or entry-level opportunities.
-
----
-
-## Contact
-
-Open to collaboration and professional opportunities.
